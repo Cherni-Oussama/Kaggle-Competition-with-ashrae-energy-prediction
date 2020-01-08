@@ -21,9 +21,11 @@ Submitted Kernel with 0.995 score.
 * [train] 
  * [test]
  
-### Training: 16.1M (0.8) samples
-### Validation: 4M (0.2) samples
-### Testing: 41M samples
+**Training:** 16.1M (0.8) samples
+
+**Validation:** 4M (0.2) samples
+
+**Testing:** 41M samples
 
 
 # Model
