@@ -29,6 +29,10 @@ Submitted Kernel with 0.995 score.
 # Model
 *****
 
+# Training
+*****
+
+
 
 
 
