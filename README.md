@@ -1,4 +1,4 @@
-# Kaggle-Competition-with-ashrae-energy-prediction
+# Kaggle-Competition: Ashrae-energy-prediction
 
 
 Python Jupyter Notebook with **Convolutional Neural Network** implemented in **Keras**. 
