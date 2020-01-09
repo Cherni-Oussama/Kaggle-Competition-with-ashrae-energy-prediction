@@ -1,7 +1,7 @@
 # Kaggle-Competition: Ashrae-energy-prediction
 
 
-Python Jupyter Notebook with **Convolutional Neural Network** implemented in **Keras**. 
+Python Jupyter Notebook with **Recurrent Neural Network LSTM** implemented in **Keras**. 
 
 It's [Google Colab] ready.
 
