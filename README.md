@@ -7,7 +7,7 @@ It's [Google Colab] ready.
 
 Part of the [Kaggle competition].
 
-Submitted Kernel with 0.995 score.
+Submitted Kernel with 2.128 mse score.
 
 # Data (379 MB)
 ****
