@@ -1,8 +1,5 @@
 # Kaggle-Competition-with-ashrae-energy-prediction
-README.md
 
-
-[![N|Solid](https://miro.medium.com/max/920/1*7sf40D8NGpopQhMwkYGDQg.jpeg)](https://www.kaggle.com/c/ashrae-energy-prediction)
 
 Python Jupyter Notebook with **Convolutional Neural Network** implemented in **Keras**. 
 
@@ -30,10 +27,40 @@ Submitted Kernel with 0.995 score.
 
 # Model
 *****
+```
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+lstm_1 (LSTM)                (None, None, 128)         70656     
+_________________________________________________________________
+dropout_1 (Dropout)          (None, None, 128)         0         
+_________________________________________________________________
+batch_normalization_1 (Batch (None, None, 128)         512       
+_________________________________________________________________
+lstm_2 (LSTM)                (None, 128)               131584    
+_________________________________________________________________
+batch_normalization_2 (Batch (None, 128)               512       
+_________________________________________________________________
+dropout_2 (Dropout)          (None, 128)               0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 1)                 129       
+=================================================================
+Total params: 203,393
+Trainable params: 202,881
+Non-trainable params: 512
+_________________________________________________________________
+```
+
+
 
 # Training
 *****
+![alt text](https://imgur.com/GeydLj4.png)
 
+# MSE Score
+****
+![alt text](https://i.imgur.com/B6vPMGR.png)
 
 
 
